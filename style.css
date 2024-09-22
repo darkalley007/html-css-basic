@@ -1,0 +1,31 @@
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    line-height: px;
+    font-size: 58px;
+    text-align: center;
+    font-weight: 200px;
+    font-family:monospace;
+}
+.hr{
+
+    color: rgb(255, 248, 248);
+    
+}
+html{
+
+    background-color: rgb(219, 36, 36);
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+#outer{
+        font-size: 35px;
+}
+
+/* #sets both outter and inner at same cause outter is a parent of inner  */
